@@ -1,0 +1,21 @@
+                    * In Week 1 *
+Content:
+.Variable Names
+
+.Data Types
+
+.Scopes
+
+.Printf & Scanf
+
+.Auto , Static , Extern , Register , and Const Keywords
+
+.Arithmetic , Logical , Relational , and Bitwise Operations
+
+.Conditional , Assignment and Comma Operators
+
+.Operator Precedence
+
+.Increment & Decrement
+
+. **No Assignments**
